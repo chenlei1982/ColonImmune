@@ -18,3 +18,8 @@ pip install scikit-learn
 
 Step 3 cd to the software folder and run the installation command:
 python *************
+
+
+Other notes
+1. In each folder, the file "comd" contains the codes to run the corresponding package.
+2. The input file of MCFS should be in adx format, whereas those for other algorithms are in csv format.
