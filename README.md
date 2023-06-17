@@ -20,9 +20,9 @@ Step 3 cd to the software folder and run the installation command:
 python *************
 
 Guide for codes
-Step1: The scRNA-seq data was fed into the codes of one of the feature ranking algorithm, which can produce a feature list.
-Step2: With the feature list in Step1, using codes in folder csv_make to generate csv files, which contain samples represetned by some top features in the list.
-Step4: For each generated csv file, using the codes of one classification algorithm to obtain the cross-validation results.
+Step 1: The scRNA-seq data was fed into the codes of one of the feature ranking algorithm, which can produce a feature list.
+Step 2: With the feature list in Step 1, using codes in folder csv_make to generate csv files, which contain samples represetned by some top features in the list.
+Step 3: For each generated csv file, using the codes of one classification algorithm to obtain the cross-validation results.
 
 Other notes
 1. In each folder, the file "comd" contains the codes to run the corresponding package.
