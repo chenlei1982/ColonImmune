@@ -1,7 +1,7 @@
 # ColonImmune
 Codes for analtzing the scRNA-seq data of normal colon
 
-In this respository, codes form analyzing the scRNA-seq data of normal colon are provided. These codes implement five featrue ranking algorithms: last absolute shrinkage and selection operator (LASSO), light gradient boosting machine (LightGBM), Monte Carlo feature selection (MCFS), Minimum Redundancy Maximum Relevance (mRMR) and random forest-based method, and two classification algiorithms: decision tree and random forest.
+In this respository, codes for analyzing the scRNA-seq data of normal colon are provided. These codes implement five featrue ranking algorithms: last absolute shrinkage and selection operator (LASSO), light gradient boosting machine (LightGBM), Monte Carlo feature selection (MCFS), Minimum Redundancy Maximum Relevance (mRMR) and random forest-based method, and two classification algiorithms: decision tree and random forest.
 
 
 Python environment installation
